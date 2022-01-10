@@ -5,4 +5,5 @@ public class Practice1 {
         System.out.println("I am eating a lot of chocolate");
     }
     //commit practice
+    //commit practice 2
 }
