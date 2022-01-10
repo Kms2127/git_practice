@@ -1,0 +1,7 @@
+package git_Practice1;
+
+public class Practice1 {
+    public static void main(String[] args) {
+        System.out.println("I am eating a lot of chocolate");
+    }
+}
